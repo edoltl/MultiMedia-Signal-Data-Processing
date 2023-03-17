@@ -13,7 +13,7 @@ frequenza normalizzata pari a 1/4, fase 0, istante di inizio e fine a 0 e 23. <b
 Rappresentare in un'unica figura il segnale originale e quello finestrato.
 Calcolare la trasformata di Fourier per entrambi i segnali e rappresentarli in un'unica
 figura sotto i relativi segnali nel dominio temporale. <br />
-## Assignment 1: <br />
+## Assignment 2: <br />
 ### Excercise 1: <br />
 I vecchi telefoni presentavano un sistema di codifica con segnali sonori chiamato dual-tone multi-frequency. <br />
 Infatti ad un suono corrispondeva uno specifico numero. <br />
