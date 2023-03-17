@@ -15,7 +15,7 @@ Calcolare la trasformata di Fourier per entrambi i segnali e rappresentarli in u
 figura sotto i relativi segnali nel dominio temporale. <br />
 ## Assignment 2: <br />
 ### Excercise 1: <br />
-https://it.wikipedia.org/wiki/Dual-tone_multi-frequency
+https://it.wikipedia.org/wiki/Dual-tone_multi-frequency <br />
 I vecchi telefoni presentavano un sistema di codifica con segnali sonori chiamato dual-tone multi-frequency. <br />
 Infatti ad un suono corrispondeva uno specifico numero. <br />
 Nell’articolo collegato potete trovare la tabella delle frequenze DTMF. Aiutandovi con il materiale supplementare <br />
