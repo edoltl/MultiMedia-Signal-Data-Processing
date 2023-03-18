@@ -29,4 +29,8 @@ Scrivete a schermo il risultato della vostra decodifica (es. SOLE). <br />
 Applicate all’immagine di Lena un filtro che consideri tutte le frequenze tranne quelle tra 25 e 50 Hz. <br />
 Generate il negativo dell’immagine filtrata e visualizzatelo. <br />
 Calcolate la trasformata di Fourier sul negativo e visualizzatene il modulo. <br />
+## Assignment 3: <br />
+Testing some filtering techniques with Poles & Zeros + K-Nearest Neighbor with Yes/No .wav datasets (using <br />
+Fast Fourier Transform) <br />
+The Assignment consisted of theoretical & semi-practical quizzes (elearning)
 
