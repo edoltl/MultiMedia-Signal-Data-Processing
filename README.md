@@ -1,5 +1,5 @@
-# MultiMedia-Data-Processing
-University Assignments for MMDP <br />
+# MultiMedia-Data&Signal-Processing
+University Assignments for MMD&SP <br />
 ## Assignment 1: <br />
 ### Excercise 1: <br />
 Creare una nuova funzione finestra (diversa da finestra.m) chiamata finestra_alt che permetta <br />
