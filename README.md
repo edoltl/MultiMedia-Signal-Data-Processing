@@ -38,7 +38,14 @@ The Assignment consisted of theoretical & semi-practical quizzes (elearning)
 ### Exercise 1: Working with YCbCr
 Per la prima consegna dovrete produrre il file esercizio1.m nel quale riporterete il codice che vi consente <br />
 di trovare i valori dinero e bianco nello spazio colore YCbCr. <br />
-• Partite dall’immagine RGB beautifuldog.jpg.
-• Convertitela nello spazio colore YCbCr.
+• Partite dall’immagine RGB beautifuldog.jpg. <br />
+• Convertitela nello spazio colore YCbCr. <br />
 • Trovate la tripletta di valori dei canali Y, Cb e Cr che corrispondono al nero ed al bianco. <br />
+### Exercise 2 – Quantization on R G B <br />
+Nel file esercizio2.m provate a riprodurre l’immagine quantizzata di beautifuldog.jpg, ottenuta a lezione, <br />
+ma quantizzando i singoli canali R, G e B. <br />
+• Confrontate la nuova immagine con quella quantizzata durante la lezione. <br />
+• Moltiplicate il secondo canale dell’immagine quantizzata per 1.5. <br />
+Ricostruite l’immagine RGB e visualizzatela in una figura al fianco di quella originale. <br />
+
 
