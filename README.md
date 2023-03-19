@@ -47,5 +47,12 @@ ma quantizzando i singoli canali R, G e B. <br />
 • Confrontate la nuova immagine con quella quantizzata durante la lezione. <br />
 • Moltiplicate il secondo canale dell’immagine quantizzata per 1.5. <br />
 Ricostruite l’immagine RGB e visualizzatela in una figura al fianco di quella originale. <br />
+### Exercise 3: mp3
+Nel file esercizio3.m, leggete il file sample1.mp3 e trovatene il peso in KB. <br />
+• Confrontate il segnale risultante dalla lettura di sample1.wav con quello in formato mp3. <br />
+• Se i segnali sono diversi, rappresentateli graficamente in un’unica figura ma in grafici separati. <br />
+  Sull’asse delle x deve esserci il tempo in secondi. <br />
+• Rallentate la traccia mp3 con un fattore a vostra scelta ed applicate un downsampling con fattore 20.<br />
+Riproducete il suono.<br />
 
 
