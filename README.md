@@ -5,7 +5,7 @@ University Assignments for MMD&SP <br />
 Create a new window function (different from finestra.m) called finestra_alt that allows <br />
 to obtain this elementary signal using the step function (1-step). <br />
 Test the efficiency of the function by creating a window between temporal stamps 3 and 14 <br />
-inside the [0, 20] interval e compare it with the result obtained by applying the original finestra.m. <br />
+inside the [0, 20] interval and compare it with the results obtained by applying the original finestra.m. <br />
 If the result is the same, plot them in the same figure with their results. <br />
 ### Exercise 2: <br />
 Applicare una finestra tra gli istanti 5 e 15 sul segnale sinusoide che abbia ampiezza pari a 2, <br />
