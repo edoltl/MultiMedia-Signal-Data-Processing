@@ -2,11 +2,11 @@
 University Assignments for MMD&SP <br />
 ## Assignment 1: <br />
 ### Exercise 1: <br />
-Creare una nuova funzione finestra (diversa da finestra.m) chiamata finestra_alt che permetta <br />
-di ottenere questo segnale elementare attraverso l'utilizzo del gradino unitario. <br />
-Testare l'efficacia della funzione creando una finestra tra gli istanti temporali 3 e 14 <br />
-nell'intervallo [0, 20] e confrontando il risultato con quello ottenuto applicando finestra.m. <br />
-Se sono uguali, disegnare in una stessa figura entrambi i risultati, mantenendo i segnali su un unico grafico. <br />
+Create a new window function (different from finestra.m) called finestra_alt that allows <br />
+to obtain this elementary signal using the step function (1-step). <br />
+Test the efficiency of the function by creating a window between temporal stamps 3 and 14 <br />
+inside the [0, 20] interval e compare it with the result obtained by applying the original finestra.m. <br />
+If the result is the same, plot them in the same figure with their results. <br />
 ### Exercise 2: <br />
 Applicare una finestra tra gli istanti 5 e 15 sul segnale sinusoide che abbia ampiezza pari a 2, <br />
 frequenza normalizzata pari a 1/4, fase 0, istante di inizio e fine a 0 e 23. <br />
