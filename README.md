@@ -54,5 +54,21 @@ Nel file esercizio3.m, leggete il file sample1.mp3 e trovatene il peso in KB. <b
   Sull’asse delle x deve esserci il tempo in secondi. <br />
 • Rallentate la traccia mp3 con un fattore a vostra scelta ed applicate un downsampling con fattore 20.<br />
 Riproducete il suono.<br />
-
-
+## Assignment6a: <br />
+La Consegna #6a consiste nella creazione del video3 dall’unione di video1 e video2. <br />
+## Assignment6b: <br />
+La Consegna #6b consiste nella creazione di un video in cui sia presente l’effetto wagon wheel. <br />
+## Assignment7a: <br />
+La Consegna #7a consiste nell’applicazione dell’algoritmo analizzato a lezione per effettuare <br />
+watermark casting e creare la propria immagine con watermark. <br />
+## Assignment7b: <br />
+La Consegna #7b consiste nell’applicazione dell’algoritmo analizzato a lezione per effettuare watermark detection <br />
+e trovare la propria immagine con watermark analizzando tutte le immagini presenti nella cartella Lena_X.
+Lena_X è un archivio .zip di immagini (sono immagini di Lena ottenute con watermark casting usando diversi set pseudocasuali) <br />
+## Assignment8: <br />
+### RLE encoding/decoding <br /> 
+1. Scegliere un'immagine RGB adatta allo scopo. <br />
+2. Preparare una mappa colori (selezionandoli a mano o effettuando un clustering dei colori). <br />
+3. Creare l'immagine indicizzata, che sarà accompagnata dalla mappa preparata al punto 2. <br />
+4. Applicare RLE <br />
+5. Decodificare tenendo presente che avremo bisogno delle dimensioni di partenza delle immagini, la codifica RLE e la mappa dei colori. <br />
