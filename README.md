@@ -34,6 +34,7 @@ Testing some filtering techniques with Poles & Zeros + K-Nearest Neighbor with Y
 Fast Fourier Transform) <br />
 The Assignment consisted of theoretical & semi-practical quizzes (elearning)
 ## Assignment 4: <br />
+https://github.com/edoltl/Gait-Analysis-From-EMG-Signals <br />
 ## Assignment 5: <br />
 ### Exercise 1: Working with YCbCr
 Per la prima consegna dovrete produrre il file esercizio1.m nel quale riporterete il codice che vi consente <br />
